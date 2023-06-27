@@ -5,6 +5,7 @@
 3,Weiblich,18,3,"Kraftsport, Ballsportarten (z.B. Fußball, Handball, Basketball, etc.)",Ja,1,"Zum Tracken meiner Leistungen, Um einen Sport-Zeitplan zu erstellen, Um mir Ziele zu setzen",Ja,Nein,1.5,2.25,3.25,3.75,5.0,4.0
 4,Weiblich,18,1,"Ballsportarten (z.B. Fußball, Handball, Basketball, etc.), Fahrrad fahren ",Ja,0,Zum Tracken meiner Leistungen,Ja,Nein,2.25,2.0,3.0,3.0,3.75,2.5
 5,Weiblich,34,1,Yoga,Ja,1,Zum Tracken meiner Leistungen,Nein,Nein,1.5,1.75,3.0,2.5,2.25,1.75
+6,Männlich,34,0,"Joggen, Kraftsport",Nein,2,"Zum Tracken meiner Leistungen, Um das Training meiner Freunde zu verfolgen, Um motivierter zu sein beim Sport",Ja,Nein,1.25,1.0,2.0,1.5,1.5,1.5
 7,Weiblich,85,7,Fahrradfahren,Nein,0,Um mir Ziele zu setzen,Nein,Nein,2.0,1.5,3.0,1.5,2.5,1.5
 8,Weiblich,17,3,"Joggen, Ballsportarten (z.B. Fußball, Handball, Basketball, etc.)",Ja,1,"Zum Tracken meiner Leistungen, Um motivierter zu sein beim Sport",Nein,Nein,2.5,3.5,4.5,4.75,5.0,4.75
 9,Männlich,26,3,Kraftsport,Ja,1,"Zum Tracken meiner Leistungen, Um motivierter zu sein beim Sport",Ja,Nein,2.75,2.75,3.75,3.25,3.75,3.75
@@ -44,11 +45,13 @@
 43,Männlich,24,1,"Kraftsport, Fitness-Kurse",Ja,2,"Zum Tracken meiner Leistungen, Um das Training meiner Freunde zu verfolgen",Ja,Nein,2.0,1.75,3.75,3.0,3.0,3.75
 44,Weiblich,23,1,"Joggen, Yoga",Ja,2,"Zum Tracken meiner Leistungen, Um einen Sport-Zeitplan zu erstellen",Ja,Nein,1.75,1.0,2.75,2.5,2.5,2.25
 45,Männlich,30,3,Kraftsport,Ja,3,"Zum Tracken meiner Leistungen, Um mir Ziele zu setzen, Um motivierter zu sein beim Sport",Ja,Ja,2.0,1.25,4.25,3.0,3.5,2.75
+46,Männlich,23,0,Joggen,Ja,2,"Zum Tracken meiner Leistungen, Um motivierter zu sein beim Sport",Ja,Nein,2.25,1.25,1.75,1.75,2.0,2.25
 47,Männlich,27,3,"Kraftsport, Ballsportarten (z.B. Fußball, Handball, Basketball, etc.)",Ja,2,Zum Tracken meiner Leistungen,Ja,Ja,3.0,2.0,4.75,3.0,4.0,4.25
 48,Weiblich,22,3,"Tanzen, Aerial Hoop",Nein,0,Um Kurse zu Buchen,Nein,Ja,1.75,2.0,3.75,4.0,4.0,5.0
 49,Männlich,23,3,"Joggen, Kraftsport, Kampfsport, Selbstverteidigung",Ja,2,Um motivierter zu sein beim Sport,Ja,Nein,1.5,1.0,3.75,3.25,3.25,4.5
 50,Männlich,59,3,"Ballsportarten (z.B. Fußball, Handball, Basketball, etc.), Schwimmen, Fitness-Kurse",Ja,1,Zum Tracken meiner Leistungen,Ja,Nein,2.75,1.75,3.0,2.75,3.5,4.0
 51,Weiblich,23,1,"Fitness-Kurse, Tanzen",Nein,1,Um Kurse zu Buchen,Nein,Nein,1.5,1.5,3.0,2.5,3.0,3.0
+52,Männlich,34,0,Keine,Ja,1,"Um mir Ziele zu setzen, Um zu wissen wie man Sportübungen korrekt ausführt ",Ja,Ja,1.25,1.0,3.5,1.0,1.75,1.0
 53,Männlich,23,5,"Joggen, Ballsportarten (z.B. Fußball, Handball, Basketball, etc.), Klettern",Ja,1,"Zum Tracken meiner Leistungen, Um das Training meiner Freunde zu verfolgen, Um motivierter zu sein beim Sport",Ja,Ja,2.5,3.5,4.5,4.25,4.75,5.0
 54,Weiblich,23,3,"Joggen, Fitness-Kurse, Tanzen",Ja,1,Workouts,Nein,Nein,1.75,1.0,2.0,3.5,4.25,3.5
 55,Männlich,23,3,"Joggen, Ballsportarten (z.B. Fußball, Handball, Basketball, etc.), Klettern",Ja,1,"Zum Tracken meiner Leistungen, Um Kurse zu Buchen",Ja,Nein,1.75,1.75,4.0,3.5,3.0,4.0
@@ -65,6 +68,7 @@
 66,Keine Angabe,25,3,"Kraftsport, Sportklettern",Ja,1,Zum Tracken meiner Leistungen,Nein,Nein,2.0,1.75,3.25,3.5,2.25,3.25
 67,Weiblich,25,3,"Kraftsport, Ballsportarten (z.B. Fußball, Handball, Basketball, etc.)",Ja,2,"Zum Tracken meiner Leistungen, Um das Training meiner Freunde zu verfolgen, Um mir Ziele zu setzen, Um motivierter zu sein beim Sport",Ja,Ja,1.75,2.5,3.25,4.0,4.5,4.0
 68,Weiblich,18,3,"Joggen, Ballsportarten (z.B. Fußball, Handball, Basketball, etc.)",Ja,1,Um mir Ziele zu setzen,Ja,Ja,2.25,2.25,4.0,3.25,4.5,4.25
+69,Männlich,24,0,Joggen,Ja,1,"Zum Tracken meiner Leistungen, Um einen Sport-Zeitplan zu erstellen, Um mir Ziele zu setzen, Um motivierter zu sein beim Sport",Ja,Nein,1.75,1.0,1.75,1.75,1.75,1.5
 70,Männlich,22,5,Kraftsport,Ja,3,Zum Tracken meiner Leistungen,Ja,Nein,1.5,1.5,5.0,3.5,5.0,5.0
 71,Weiblich,56,3,"Schwimmen, Pilates",Nein,0,"Zum Tracken meiner Leistungen, Um Kurse zu Buchen",Ja,Nein,2.0,1.5,4.75,2.75,2.5,2.0
 72,Weiblich,32,1,Joggen,Ja,3,"Zum Tracken meiner Leistungen, Um mir Ziele zu setzen, Um motivierter zu sein beim Sport",Ja,Nein,1.5,1.25,4.25,2.75,4.25,4.0
@@ -96,6 +100,7 @@
 98,Männlich,26,5,"Kraftsport, Laufen",Ja,3,"Zum Tracken meiner Leistungen, Um motivierter zu sein beim Sport, Um mich mit meinen früheren Leistungen zu vergleichen",Ja,Nein,1.5,2.0,4.25,2.75,4.5,4.5
 99,Männlich,24,5,Kraftsport,Ja,1,Zum Tracken meiner Leistungen,Ja,Ja,1.75,2.5,4.75,3.0,4.75,4.75
 100,Männlich,28,5,"Joggen, Kraftsport, Ballsportarten (z.B. Fußball, Handball, Basketball, etc.), Schwimmen, Fitness-Kurse",Ja,2,"Um das Training meiner Freunde zu verfolgen, Um Kurse zu Buchen, Um motivierter zu sein beim Sport",Ja,Nein,1.75,4.0,5.0,4.75,5.0,5.0
+101,Männlich,26,0,Kraftsport,Ja,2,Zum Tracken meiner Leistungen,Nein,Nein,2.0,1.0,3.25,2.75,1.0,1.75
 102,Weiblich,25,5,"Joggen, Ballsportarten (z.B. Fußball, Handball, Basketball, etc.), Fitness-Kurse",Ja,2,"Zum Tracken meiner Leistungen, Um motivierter zu sein beim Sport",Ja,Nein,1.5,2.25,4.25,4.0,5.0,3.75
 103,Männlich,22,1,"Joggen, Tanzen",Nein,1,Um Kurse zu Buchen,Ja,Nein,3.25,3.75,3.75,3.5,3.5,3.25
 104,Männlich,24,3,"Joggen, Kraftsport, Schwimmen, Fitness-Kurse",Ja,2,"Zum Tracken meiner Leistungen, Um einen Sport-Zeitplan zu erstellen, Um mir Ziele zu setzen, Um motivierter zu sein beim Sport",Ja,Nein,2.5,2.75,3.0,4.25,3.5,4.0
@@ -103,6 +108,7 @@
 106,Männlich,26,3,"Kraftsport, Schwimmen, Bouldern",Ja,3,Um Kurse zu Buchen,Nein,Ja,1.75,1.5,3.5,2.75,2.5,3.0
 107,Weiblich,31,5,"Joggen, Yoga",Ja,2,"Zum Tracken meiner Leistungen, Um Kurse zu Buchen",Ja,Ja,2.25,2.75,3.75,2.5,3.75,3.5
 108,Weiblich,65,5,Walken,Nein,0,Benutze keine Sportapp,Nein,Nein,1.0,1.0,2.0,1.0,1.0,1.0
+109,Männlich,54,0,"Schwimmen, Radfahren",Nein,0,Um mir Ziele zu setzen,Nein,Nein,1.0,1.5,2.75,1.5,1.75,1.75
 110,Weiblich,64,3,Fitness-Kurse,Ja,1,"Zum Tracken meiner Leistungen, Um Kurse zu Buchen, Fuer hiit training",Ja,Nein,1.5,2.0,4.75,3.5,3.5,4.25
 111,Männlich,24,3,Badminton,Ja,1,"Zum Tracken meiner Leistungen, Um das Training meiner Freunde zu verfolgen",Ja,Ja,2.5,2.25,3.75,3.5,3.75,4.25
 112,Weiblich,26,1,"Ballsportarten (z.B. Fußball, Handball, Basketball, etc.), Fitness-Kurse",Ja,1,"Zum Tracken meiner Leistungen, Um mir Ziele zu setzen, Um motivierter zu sein beim Sport",Ja,Nein,1.5,1.0,2.25,2.75,2.75,2.25
