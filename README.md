@@ -15,7 +15,7 @@ This is the "Empirical Methods of Software Engineering" project! We analyzed an 
 - `data.csv`: The prepared data is stored in this file 
 
 - `data_analysis.ipynb`: In this Jupyter notebook, we perform an in-depth analysis of the data, examining relationships between sports app usage and sports motivation
-- 
+  
 - `hypothesis_testing.ipynb`: This Jupyter notebook presents the testing of our hypotheses 
 
 - `.pdf`: These files contain the graphical representations of our analysis results
